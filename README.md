@@ -41,6 +41,11 @@
 * OpenCanopy.efi
 * OpenRuntime.efi
 
+## setup
+1. https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide
+2. reboot select reset nvram
+3. boot from macOS
+
 https://www.tonymacx86.com/threads/success-ga-z370-aorus-gaming-7-i7-8700k-rx5700xt-oc.299852/
 
 https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/
