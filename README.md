@@ -41,6 +41,50 @@
 * OpenCanopy.efi
 * OpenRuntime.efi
 
+# ALAC1220 (顯示由上而下)
+## 1 
+  Linein k
+  Linein j
+  耳機 n 前板插入斷聲音 還是耳機
+## 2
+  Linein o
+  Linein m
+  耳機 n
+  前板 內建
+## 7
+  Linein j
+  Linein k
+  耳機 n 沒聲音
+  前板 內建
+## 11
+  Linein j
+  Linein  k
+  耳機 n 沒聲音
+  前板 內建
+## 16
+  Linein k
+  Linein j
+  耳機 前板
+  內建 n
+## 27
+  Linein j
+  Linein k
+  Linein 沒聲音
+  (n 沒聲音)
+  內建 前板
+## 28
+  Linein j
+  Linein k
+  內建 n (需手動切換)
+  內建 前板 (需手動切換)
+## 29
+  Linein j
+  Linein k
+  耳機 n 沒聲音
+  內建 前板
+
+
+
 ## setup
 1. https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide
 2. reboot select reset nvram
