@@ -5,7 +5,7 @@
 
 ## Version
 * macOS 10.15.6 Catalina
-* OpenCore 0.5.9
+* OpenCore 0.6.1
 
 ## Hardware
 
