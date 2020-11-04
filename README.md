@@ -4,8 +4,8 @@
 </p>
 
 ## Version
-* macOS 10.15.6 Catalina
-* OpenCore 0.6.2
+* macOS 10.15.7 Catalina
+* OpenCore 0.6.3
 
 ## Hardware
 
