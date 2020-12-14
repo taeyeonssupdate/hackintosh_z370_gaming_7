@@ -1,4 +1,4 @@
-# OpenCore on z370 i7-8700 rx580
+# Hackintosh with Opnecore (z370 i7-8700k rx580 8G 32gb ram)
 <p align="center">
   <img src="./system.png" alt="System specs">
 </p>
