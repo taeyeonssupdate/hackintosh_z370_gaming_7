@@ -97,6 +97,8 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -123,6 +125,8 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -149,6 +153,8 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data>RFNEVA==</data>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -224,10 +230,11 @@
 			<false/>
 			<key>ProvideMaxSlide</key>
 			<integer>0</integer>
+			<key>ForceBooterSignature</key>
+			<false/>
 		</dict>
 		<key>Patch</key>
-		<array>
-		</array>
+		<array/>
 	</dict>
 	<key>DeviceProperties</key>
 	<dict>
@@ -657,8 +664,7 @@
 			<integer>-1</integer>
 		</dict>
 		<key>Force</key>
-		<array>
-		</array>
+		<array/>
 		<key>Scheme</key>
 		<dict>
 			<key>FuzzyMatch</key>
@@ -672,8 +678,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -1018,8 +1023,6 @@
 			<false/>
 			<key>AppleDebugLog</key>
 			<false/>
-			<key>AppleEvent</key>
-			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
 			<key>AppleImageConversion</key>
@@ -1081,6 +1084,21 @@
 				<integer>268435456</integer>
 			</dict>
 		</array>
+		<key>AppleInput</key>
+		<dict>
+			<key>AppleEvent</key>
+			<string>Builtin</string>
+			<key>CustomDelays</key>
+			<string>Auto</string>
+			<key>KeyInitialDelay</key>
+			<integer>0</integer>
+			<key>KeySubsequentDelay</key>
+			<integer>5</integer>
+			<key>PointerSpeedDiv</key>
+			<integer>1</integer>
+			<key>PointerSpeedMul</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 </dict>
 </plist>
