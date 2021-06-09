@@ -4,9 +4,13 @@
 </p>
 
 ## Version
-* macOS 11.3 Catalina
-* OpenCore 0.6.8
+* macOS 11.4 Catalina
+* OpenCore 0.7.0
 ### other version
+<a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/></a>[macOS 11.4](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a)
+* [OpenCore 0.7.0](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a)
+
+
 <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/></a>[macOS 11.3 fix usb mapping](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064)
 * [OpenCore 0.6.8](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064)
 
@@ -39,32 +43,41 @@
 * Gigabyte Radeon RX 580 GAMING 8G
 * 2x16GB HyperX FURY DDR4 3466Mhz HX434C17FB4/16
 * SSD CRUCIAL MX500 CT500MX500SSD1
-* PCI-e Broadcom BCM4360 WiFi ac + USB Bluetooth 4.0
+* PCI-e Broadcom BCM4360 WiFi ac + USB Bluetooth 4.2
 
 ## ACPI
 * SSDT-AWAC.aml
 * SSDT-EC-USBX.aml
 * SSDT-PLUG.aml
 * SSDT-RX580.aml
+* SSDT-UIAC.aml
 
 ## Kexts
 * AirportBrcmFixup.kext
 * AppleALC.kext
 * AtherosE2200Ethernet.kext
+* DAGPM.kext
 * IntelMausi.kext
+* IntelSnowMausi.kext
 * Lilu.kext
 * SMCProcessor.kext
 * SMCSuperIO.kext
 * USBPorts.kext
 * VirtualSMC.kext
 * WhateverGreen.kext
-* DAGPM.kext
 
 ## Drivers
 * AudioDxe.efi
 * HfsPlus.efi
 * OpenCanopy.efi
 * OpenRuntime.efi
+
+## Tools
+* OpenShell.efi
+
+## BIOS (Download from folder restore in BIOS)
+* F15b (BIOS babckup)
+* Profiles 0.7 (Profiles backup)
 
 # ALAC1220 (顯示由上而下)
 ## 1 
