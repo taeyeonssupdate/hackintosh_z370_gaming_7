@@ -4,12 +4,14 @@
 </p>
 
 ## Version
-* macOS 11.4 Catalina
-* OpenCore 0.7.0
+* macOS 11.5 Catalina
+* OpenCore 0.7.2
 ### other version
+<a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f34b94f"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/></a>[macOS 11.5](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f34b94f)
+* [OpenCore 0.7.2](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f34b94f)
+
 <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/></a>[macOS 11.4](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a)
 * [OpenCore 0.7.0](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a)
-
 
 <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/></a>[macOS 11.3 fix usb mapping](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064)
 * [OpenCore 0.6.8](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064)
@@ -36,6 +38,16 @@
 <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ba1036b"><img src="https://km.support.apple.com/resources/sites/APPLE/content/live/IMAGES/0/IM935/en_US/macos-catalina-roundel-240.png" height="32px"/></a>[macOS 10.15.6](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ba1036b)
 * [OpenCore 0.6.2](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ba1036b)
 * [OpenCore 0.6.1](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/66c2799)
+
+## setup
+1. https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide
+2. reboot select reset nvram
+3. boot from macOS
+
+https://www.tonymacx86.com/threads/success-ga-z370-aorus-gaming-7-i7-8700k-rx5700xt-oc.299852/
+
+https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/
+
 ## Hardware
 
 * Intel Core i7-8700K Coffee Lake
@@ -120,14 +132,3 @@
   Linein k
   耳機 n 沒聲音
   內建 前板
-
-
-
-## setup
-1. https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide
-2. reboot select reset nvram
-3. boot from macOS
-
-https://www.tonymacx86.com/threads/success-ga-z370-aorus-gaming-7-i7-8700k-rx5700xt-oc.299852/
-
-https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/
