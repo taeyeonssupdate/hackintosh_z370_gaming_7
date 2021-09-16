@@ -6,9 +6,9 @@
 
 ## Version
 
-- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/0ee84c4"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/></a>[macOS 11.5.2 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/0ee84c4)
+- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ccad08427280f3bc1892e28bc38a70dfa4150bf7"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/></a>[macOS 11.5.2 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ccad08427280f3bc1892e28bc38a70dfa4150bf7)
 
-- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/0ee84c4"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/></a>[OpenCore 0.7.2](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/0ee84c4)
+- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ccad08427280f3bc1892e28bc38a70dfa4150bf7"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/></a>[OpenCore 0.7.3](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ccad08427280f3bc1892e28bc38a70dfa4150bf7)
 
 ## setup
 
@@ -68,55 +68,6 @@
 
 - F15b (BIOS babckup)
 - Profiles 0.7 (Profiles backup)
-
-### Other version
-
-#### f34b94f
-
-- [macOS 11.5 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f34b94f)
-- [OpenCore 0.7.2](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f34b94f)
-
-#### 7c9881a
-
-- [macOS 11.4 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a)
-- [OpenCore 0.7.0](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/7c9881a)
-
-#### 9e52064
-
-- [macOS 11.3 Big Sur fix usb mapping](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064)
-- [OpenCore 0.6.8](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/9e52064)
-
-#### 95410af
-
-- [macOS 11.2.3 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/95410af)
-- [OpenCore 0.6.8](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/95410af)
-
-#### 652d15a
-
-- [macOS 11.2.2 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/652d15a)
-- [OpenCore 0.6.7](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/652d15a)
-
-#### 4a7d29a
-
-- [macOS 11.2 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/4a7d29a)
-- [OpenCore 0.6.6](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/4a7d29a)
-
-#### 908baab a7e27f6
-
-- [macOS 11.0.1 Big Sur](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/908baab)
-- [OpenCore 0.6.5](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/908baab)
-- [OpenCore 0.6.3](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/a7e27f6)
-
-#### 2af5c9
-
-- [macOS 10.15.7 Catalina](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/2af5c9)
-- [OpenCore 0.6.3](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/2af5c9d)
-
-#### ba1036b 66c2799
-
-- [macOS 10.15.6 Catalina](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ba1036b)
-- [OpenCore 0.6.2](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/ba1036b)
-- [OpenCore 0.6.1](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/66c2799)
 
 # ALAC1220 (顯示由上而下)
 
