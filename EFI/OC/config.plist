@@ -248,6 +248,8 @@
 			<integer>0</integer>
 			<key>ForceBooterSignature</key>
 			<false/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 		</dict>
 		<key>Patch</key>
 		<array/>
@@ -527,6 +529,24 @@
 				<string>Any</string>
 				<key>BundlePath</key>
 				<string>SMCSuperIO.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AppleALCU.kext</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AppleALCU</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>AppleALCU.kext</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -1072,6 +1092,8 @@
 				<true/>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string></string>
 			</dict>
 			<dict>
 				<key>Path</key>
@@ -1079,6 +1101,8 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
 				<string></string>
 			</dict>
 			<dict>
@@ -1088,6 +1112,8 @@
 				<true/>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string></string>
 			</dict>
 			<dict>
 				<key>Path</key>
@@ -1096,6 +1122,8 @@
 				<true/>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string></string>
 			</dict>
 			<dict>
 				<key>Path</key>
@@ -1103,6 +1131,8 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
 				<string></string>
 			</dict>
 		</array>
@@ -1219,6 +1249,8 @@
 			<false/>
 			<key>ForceOcWriteFlash</key>
 			<false/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 		</dict>
 		<key>ReservedMemory</key>
 		<array>
