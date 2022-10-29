@@ -1,4 +1,5 @@
-# Hackintosh with Opnecore (z370 i7-8700k rx580 8G 32gb ram)
+# Hackintosh with Opnecore (z370 i7-8700k 32gb ram) 
+# ~~rx580 8G deleted~~
 
 <p align="center">
   <img src="./system.png" alt="System specs">
@@ -6,9 +7,9 @@
 
 ## Version
 
-- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/297a050c4453fc3ae947daa7021a6f98a66618d9"><img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/></a>[macOS 12.0.1 Monterey](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/297a050c4453fc3ae947daa7021a6f98a66618d9)
+- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2"><img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/></a>[macOS 12.2.1 Monterey](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2)
 
-- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/297a050c4453fc3ae947daa7021a6f98a66618d9"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/></a>[OpenCore 0.7.5](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/297a050c4453fc3ae947daa7021a6f98a66618d9)
+- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/></a>[OpenCore 0.8.5](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2)
 
 ## setup
 
@@ -25,7 +26,7 @@
 
 - Intel Core i7-8700K Coffee Lake
 - Gigabyte Z370 AORUS Gaming 7
-- Gigabyte Radeon RX 580 GAMING 8G
+- ~~Gigabyte Radeon RX 580 GAMING 8G~~
 - 2x16GB HyperX FURY DDR4 3466Mhz HX434C17FB4/16
 - SSD CRUCIAL MX500 CT500MX500SSD1
 - PCI-e Broadcom BCM4360 WiFi ac + USB Bluetooth 4.2
@@ -35,13 +36,14 @@
 - SSDT-AWAC.aml
 - SSDT-EC-USBX.aml
 - SSDT-PLUG.aml
-- SSDT-RX580.aml
+- ~~SSDT-RX580.aml~~
 - SSDT-UIAC.aml
 
 ## Kexts
 
 - AirportBrcmFixup.kext
 - AppleALC.kext
+- AppleALCU.kext
 - AtherosE2200Ethernet.kext
 - DAGPM.kext
 - IntelMausi.kext
@@ -56,8 +58,10 @@
 ## Drivers
 
 - AudioDxe.efi
+- ext4_x64.efi
 - OpenHfsPlus.efi
 - OpenCanopy.efi
+- OpenLinuxBoot.efi
 - OpenRuntime.efi
 
 ## Tools
