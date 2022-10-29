@@ -7,7 +7,7 @@
 
 ## Version
 
-- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2"><img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/></a>[macOS 12.2.1 Monterey](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2)
+- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2"><img src="https://i.pcmag.com/imagery/reviews/04iuiyBZ61YPzdVS4GfRYKM-29.fit_scale.size_760x427.v1666629922.png" height="32px"/></a>[macOS 13.0 Ventura](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2)
 
 - <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/></a>[OpenCore 0.8.5](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/53d4f1ba97e172a84ed26fb2928b4bdb08cc55d2)
 
@@ -72,61 +72,3 @@
 
 - F15b (BIOS babckup)
 - Profiles 0.7 (Profiles backup)
-
-# ALAC1220 (顯示由上而下)
-
-## 1
-
-Linein k
-Linein j
-耳機 n 前板插入斷聲音 還是耳機
-
-## 2
-
-Linein o
-Linein m
-耳機 n
-前板 內建
-
-## 7
-
-Linein j
-Linein k
-耳機 n 沒聲音
-前板 內建
-
-## 11
-
-Linein j
-Linein k
-耳機 n 沒聲音
-前板 內建
-
-## 16
-
-Linein k
-Linein j
-耳機 前板
-內建 n
-
-## 27
-
-Linein j
-Linein k
-Linein 沒聲音
-(n 沒聲音)
-內建 前板
-
-## 28
-
-Linein j
-Linein k
-內建 n (需手動切換)
-內建 前板 (需手動切換)
-
-## 29
-
-Linein j
-Linein k
-耳機 n 沒聲音
-內建 前板
