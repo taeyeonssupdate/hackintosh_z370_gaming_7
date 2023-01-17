@@ -7,9 +7,9 @@
 
 ## Version
 
-- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f8c67bd51c3194c2c665454cf42c2ce00a7ff18e"><img src="https://i.pcmag.com/imagery/reviews/04iuiyBZ61YPzdVS4GfRYKM-29.fit_scale.size_760x427.v1666629922.png" height="32px"/></a>[macOS 13.0 Ventura](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f8c67bd51c3194c2c665454cf42c2ce00a7ff18e)
+- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/a48858143e8a70b4f1c9876e8a50f0b6dbdb748c"><img src="https://i.pcmag.com/imagery/reviews/04iuiyBZ61YPzdVS4GfRYKM-29.fit_scale.size_760x427.v1666629922.png" height="32px"/></a>[macOS 13.0.1 Ventura](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/a48858143e8a70b4f1c9876e8a50f0b6dbdb748c)
 
-- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f8c67bd51c3194c2c665454cf42c2ce00a7ff18e"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/></a>[OpenCore 0.8.5](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/f8c67bd51c3194c2c665454cf42c2ce00a7ff18e)
+- <a href="https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/a48858143e8a70b4f1c9876e8a50f0b6dbdb748c"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/></a>[OpenCore 0.8.8](https://github.com/taeyeonssupdate/OpenCore-Z370-Gaming-7-i8-8700k-rx580-8G/tree/a48858143e8a70b4f1c9876e8a50f0b6dbdb748c)
 
 ## setup
 
